@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Log out" android:id="@+id/logout"></item>
+    <item android:title="Tweet" android:id="@+id/tweet"></item>
+    <item android:title="Explore" android:id="@+id/explore"></item>
+    <item android:title="Friends" android:id="@+id/friends"></item>
+    <item android:title="Your Account" android:id="@+id/you"></item>
+    <item android:title="Home" android:id="@+id/home"></item>
+
+</menu>
